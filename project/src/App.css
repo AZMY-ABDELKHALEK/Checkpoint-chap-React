@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: 24px 0;
+}
+.card-div{
+    display: flex; 
+    justify-content:space-evenly;
+
+}
+.form-div {
+    display: flex; 
+    margin: 24px 0;
+    
+}
